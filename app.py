@@ -11,7 +11,7 @@ from PIL import Image
 # ==========================================
 import streamlit as st
 
-API_KEY = st.secrets["OPENWEATHER_API_KEY"]
+API_KEY ='7a951ba619f2966149fe1522a4c490d4'
 
 st.set_page_config(
     page_title="Smart Agriculture AI",
