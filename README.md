@@ -1,6 +1,6 @@
 # 🌾 Smart Agriculture AI
 
-An AI-powered Crop Recommendation System built using Machine Learning and Streamlit.
+An AI-powered crop recommendation system using Machine Learning, live weather, GPS location detection, fertilizer recommendations, interactive visualizations, and a modern Streamlit dashboard.
 
 ## Features
 
